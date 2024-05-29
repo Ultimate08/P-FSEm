@@ -1,0 +1,6 @@
+pygame 2.5.2 (SDL 2.28.3, Python 3.9.2)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "/home/brigada4/P-FSEm-main/test_pygame.py", line 25, in <module>
+    for evento in pygame.event.get():
+KeyboardInterrupt
